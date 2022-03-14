@@ -1,0 +1,20 @@
+﻿Employment Status,Credit Rating,Available Credit,Age,Approve Application ?
+Unemployed,Excellent,High,Young,No
+Unemployed,Fair,High,Young,No
+Unemployed,Excellent,High,Middle Age,Yes
+Unemployed,Excellent,Medium,Senior,Yes
+Employed,Excellent,Low,Senior,Yes
+Employed,Fair,Low,Senior,No
+Employed,Fair,Low,Middle Age,Yes
+Unemployed,Excellent,Medium,Young,No
+Employed,Excellent,Low,Young,Yes
+Employed,Fair,Medium,Young,Yes
+Unemployed,Fair,Medium,Middle Age,Yes
+Employed,Excellent,High,Middle Age,Yes
+Unemployed,Fair,Medium,Senior,No
+Unemployed,Fair,Low,Young,No
+Unemployed,Excellent,Medium,Middle Age,Yes
+Employed,Fair,Medium,Senior,No
+Employed,Excellent,High,Senior,Yes
+Employed,Fair,Medium,Senior,No
+Employed,Fair,Medium,Middle Age,Yes
